@@ -1,0 +1,10 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+hr {
+    height: 5px;
+    background: var(--cor-hover);
+    border: none;
+}
